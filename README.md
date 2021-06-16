@@ -1,5 +1,5 @@
 
-# Java模板工程
+# Java样例工程
 
 ### 开源
 - [参考hegaojian大神项目中的图标](https://github.com/hegaojian/WanAndroid)
